@@ -1,5 +1,23 @@
 # Changelog
 
+## [0.21.0](https://github.com/ChromeDevTools/chrome-devtools-mcp/compare/chrome-devtools-mcp-v0.20.3...chrome-devtools-mcp-v0.21.0) (2026-03-25)
+
+
+### 🎉 Features
+
+* add a skill for detecting memory leaks using take_memory_snapshot tool ([#1162](https://github.com/ChromeDevTools/chrome-devtools-mcp/issues/1162)) ([d19a235](https://github.com/ChromeDevTools/chrome-devtools-mcp/commit/d19a2350f975ec2fbf8ee61b35163a48c0146c32))
+* record client name in telemetry. ([#1208](https://github.com/ChromeDevTools/chrome-devtools-mcp/issues/1208)) ([9a47b65](https://github.com/ChromeDevTools/chrome-devtools-mcp/commit/9a47b657d7b17b9bc64508530c93d55e8033e2a6))
+
+
+### 🛠️ Fixes
+
+* versioning for Claude Code plugin ([#1233](https://github.com/ChromeDevTools/chrome-devtools-mcp/issues/1233)) ([966b86f](https://github.com/ChromeDevTools/chrome-devtools-mcp/commit/966b86f3aaa9f87c2599b954c4e7f990c2a697ea))
+
+
+### 📄 Documentation
+
+* provide disclaimer about supported browsers ([#1237](https://github.com/ChromeDevTools/chrome-devtools-mcp/issues/1237)) ([8676b72](https://github.com/ChromeDevTools/chrome-devtools-mcp/commit/8676b7216c66dfd323c2f6c272544a75dbab4dba))
+
 ## [0.20.3](https://github.com/ChromeDevTools/chrome-devtools-mcp/compare/chrome-devtools-mcp-v0.20.2...chrome-devtools-mcp-v0.20.3) (2026-03-20)
 
 
